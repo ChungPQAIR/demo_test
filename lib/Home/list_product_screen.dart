@@ -55,8 +55,8 @@ class ListProduct extends StatelessWidget {
             color: const Color.fromARGB(255, 243, 125, 71),
             child: Center(
               child: MyText(
-                text: 'Hôm nay bạn dùng gì?',
-                fontSize: 17,
+                text: 'Các món ăn trong hom nay ?',
+                fontSize: 20,
               ),
             ),
           ),
